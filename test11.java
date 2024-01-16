@@ -8,5 +8,7 @@ public class test11
         System.out.println("Hello world");
         System.out.println(new Date());
         System.out.println("Welcome to ASMA collage");
+        Student stud = new Student();
+        stud.sayHello();
     }
 }
