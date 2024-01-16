@@ -7,5 +7,6 @@ public class test11
         System.out.println("This is a java program in jenkins folder");
         System.out.println("Hello wolrd");
         System.out.println(new Date());
+        System.out.println("Welcome to ASMA collage");
     }
 }
